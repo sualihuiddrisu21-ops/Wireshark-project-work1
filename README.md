@@ -112,3 +112,7 @@ Uncheck the box next to it.
 Click OK to save.
 
 Then i Open Command Prompt as Administrator and flush the cache again.
+
+AUTHOR
+Idrrisu Sualihu
+
